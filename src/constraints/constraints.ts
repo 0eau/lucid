@@ -34,6 +34,10 @@ export class Constraints extends Tx {
   public mustProduceAtLeast(){
 
   }
+
+  public mustSpendAtLeast(){
+    
+  }
 }
 
 /*
